@@ -17,17 +17,27 @@
         <entry file="file://$PROJECT_DIR$/src/com/kotlin/demo/Hello.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VarDecla.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VarDecla.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kotlin/demo/VarDecla.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
+            <state relative-caret-position="796">
               <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Function.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/kotlin/demo/Function.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -53,58 +63,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21735">
-              <caret line="1050" column="12" lean-forward="false" selection-start-line="1050" selection-start-column="12" selection-end-line="1050" selection-end-column="12" />
-              <folding>
-                <marker date="1527685214727" expanded="true" signature="63154:63196" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63154:63214" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63154:63227" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63154:63242" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63277:65827" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63290:65812" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63344:63639" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63363:63624" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63426:63604" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63466:63570" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63487:63548" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63689:64016" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63708:64001" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63803:63981" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63843:63947" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="63864:63925" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64067:64332" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64086:64317" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64119:64297" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64159:64263" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64180:64241" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64375:64681" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64394:64666" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64468:64646" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64508:64612" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64529:64590" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64732:65085" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64751:65070" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64833:65050" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64873:65016" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="64894:64994" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="65120:65426" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="65139:65411" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="65213:65391" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="65253:65357" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="65274:65335" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="65478:65798" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="65497:65783" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="65585:65763" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="65625:65729" ph="..." />
-                <marker date="1527685214727" expanded="true" signature="65646:65707" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -113,6 +71,9 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -127,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/com/kotlin/demo/Hello.kt" />
         <option value="$PROJECT_DIR$/src/com/kotlin/demo/VarAndVal.kt" />
         <option value="$PROJECT_DIR$/src/com/kotlin/demo/VarDecla.kt" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/demo/Function.kt" />
       </list>
     </option>
   </component>
@@ -157,6 +119,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -189,9 +152,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.com.kotlin.demo.FunctionKt">
     <configuration default="false" name="com.kotlin.demo.HelloKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="VM_PARAMETERS" />
@@ -240,6 +202,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.kotlin.demo.VarDeclaKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="HelloKotlin" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="com.kotlin.demo.FunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.demo.FunctionKt" />
       <option name="WORKING_DIRECTORY" />
       <module name="HelloKotlin" />
       <envs />
@@ -656,14 +631,16 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Kotlin.com.kotlin.demo.HelloKt" />
       <item index="1" class="java.lang.String" itemvalue="Kotlin.com.kotlin.demo.VarDeclaKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.com.kotlin.demo.FunctionKt" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.com.kotlin.demo.VarDeclaKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.com.kotlin.demo.HelloKt" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.com.kotlin.demo.FunctionKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.com.kotlin.demo.VarDeclaKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.com.kotlin.demo.HelloKt" />
       </list>
     </recent_temporary>
   </component>
@@ -681,11 +658,12 @@
       <workItem from="1527405849180" duration="599000" />
       <workItem from="1527471266350" duration="791000" />
       <workItem from="1527682602024" duration="2484000" />
+      <workItem from="1528184251630" duration="2079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6167000" />
+    <option name="totallyTimeSpent" value="8246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="1" width="1932" height="1045" extended-state="0" />
@@ -694,19 +672,19 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32821077" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25801283" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1736111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -739,6 +717,46 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/kotlin/demo/Hello.kt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28350">
+          <caret line="1050" column="12" lean-forward="false" selection-start-line="1050" selection-start-column="12" selection-end-line="1050" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/demo/VarDecla.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/demo/Hello.kt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -765,49 +783,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25353">
           <caret line="939" column="12" lean-forward="false" selection-start-line="939" selection-start-column="12" selection-end-line="939" selection-end-column="12" />
-          <folding>
-            <marker date="1527685214727" expanded="true" signature="63154:63196" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63154:63214" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63154:63227" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63154:63242" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63277:65827" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63290:65812" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63344:63639" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63363:63624" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63426:63604" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63466:63570" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63487:63548" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63689:64016" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63708:64001" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63803:63981" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63843:63947" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63864:63925" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64067:64332" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64086:64317" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64119:64297" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64159:64263" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64180:64241" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64375:64681" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64394:64666" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64468:64646" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64508:64612" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64529:64590" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64732:65085" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64751:65070" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64833:65050" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64873:65016" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64894:64994" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65120:65426" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65139:65411" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65213:65391" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65253:65357" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65274:65335" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65478:65798" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65497:65783" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65585:65763" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65625:65729" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65646:65707" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -839,49 +815,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23544">
           <caret line="872" column="12" lean-forward="true" selection-start-line="872" selection-start-column="12" selection-end-line="872" selection-end-column="12" />
-          <folding>
-            <marker date="1527685214727" expanded="true" signature="63154:63196" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63154:63214" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63154:63227" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63154:63242" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63277:65827" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63290:65812" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63344:63639" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63363:63624" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63426:63604" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63466:63570" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63487:63548" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63689:64016" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63708:64001" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63803:63981" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63843:63947" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63864:63925" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64067:64332" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64086:64317" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64119:64297" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64159:64263" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64180:64241" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64375:64681" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64394:64666" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64468:64646" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64508:64612" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64529:64590" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64732:65085" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64751:65070" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64833:65050" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64873:65016" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64894:64994" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65120:65426" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65139:65411" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65213:65391" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65253:65357" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65274:65335" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65478:65798" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65497:65783" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65585:65763" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65625:65729" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65646:65707" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -913,49 +847,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20439">
           <caret line="757" column="16" lean-forward="true" selection-start-line="757" selection-start-column="16" selection-end-line="757" selection-end-column="16" />
-          <folding>
-            <marker date="1527685214727" expanded="true" signature="63154:63196" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63154:63214" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63154:63227" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63154:63242" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63277:65827" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63290:65812" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63344:63639" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63363:63624" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63426:63604" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63466:63570" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63487:63548" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63689:64016" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63708:64001" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63803:63981" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63843:63947" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63864:63925" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64067:64332" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64086:64317" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64119:64297" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64159:64263" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64180:64241" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64375:64681" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64394:64666" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64468:64646" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64508:64612" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64529:64590" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64732:65085" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64751:65070" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64833:65050" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64873:65016" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64894:64994" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65120:65426" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65139:65411" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65213:65391" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65253:65357" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65274:65335" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65478:65798" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65497:65783" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65585:65763" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65625:65729" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65646:65707" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -974,6 +866,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/demo/Hello.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/demo/VarDecla.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2029">
+          <caret line="1170" column="12" lean-forward="false" selection-start-line="1170" selection-start-column="12" selection-end-line="1170" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -982,68 +898,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/demo/Function.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21735">
-          <caret line="1050" column="12" lean-forward="false" selection-start-line="1050" selection-start-column="12" selection-end-line="1050" selection-end-column="12" />
-          <folding>
-            <marker date="1527685214727" expanded="true" signature="63154:63196" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63154:63214" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63154:63227" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63154:63242" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63277:65827" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63290:65812" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63344:63639" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63363:63624" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63426:63604" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63466:63570" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63487:63548" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63689:64016" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63708:64001" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63803:63981" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63843:63947" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="63864:63925" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64067:64332" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64086:64317" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64119:64297" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64159:64263" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64180:64241" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64375:64681" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64394:64666" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64468:64646" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64508:64612" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64529:64590" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64732:65085" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64751:65070" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64833:65050" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64873:65016" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="64894:64994" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65120:65426" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65139:65411" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65213:65391" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65253:65357" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65274:65335" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65478:65798" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65497:65783" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65585:65763" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65625:65729" ph="..." />
-            <marker date="1527685214727" expanded="true" signature="65646:65707" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kotlin/demo/Hello.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kotlin/demo/VarDecla.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+        <state relative-caret-position="307">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding />
         </state>
       </provider>
