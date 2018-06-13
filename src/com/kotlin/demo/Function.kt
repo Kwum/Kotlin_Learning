@@ -1,5 +1,6 @@
 package com.kotlin.demo
 
+
 /**
  * @Description: 函数模块学习
  * @Author Kwum
@@ -14,8 +15,15 @@ fun main(args: Array<String>) {
     println("aaa" == "aaa")
     println("aaa".equals("AAA", true)) //无视大小写
 
-    whenFun(10)
-    whenFun(3)
+    println(add(3,5))
+
+    //在方法体中写函数，类似C或C++的函数指针
+    var addA = {x: Int, y:Int -> x+y}
+    println(addA(3, 8))
+
+    //另一种函数写法，函数式表达式
+    var addB:(Int, Int)->Int = {x, y -> x+y}
+    println(addB(3, 8))
 }
 
 /**
@@ -34,15 +42,8 @@ fun strOperate(str: String):String{
 }
 
 /**
- * when函数
+ * 函数简写
  */
-fun whenFun(score: Int){
-    when(score){
-        10 -> println("你牛逼！")
-        9 -> println("你强！")
-        8 -> println("你厉害！")
-        7 -> println("你可以！")
-        6 -> println("你行！")
-        else -> println("可以")
-    }
-}
+fun add(x: Int, y: Int):Int = x+y
+
+
