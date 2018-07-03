@@ -16,7 +16,25 @@ fun main(args: Array<String>) {
 
 //    list()
 
-    println(map("ii"))
+    println(map("aa"))
+
+    //字符串整形转换
+    var aa = 1
+    aa.toString()
+    var bb = "2"
+    bb.toInt()
+
+    println("请输入任意字符：")
+    //键盘录入
+    var cc = readLine()
+    println("输入的是：" + cc)
+
+    //异常捕获
+    try {
+        cc!!.toInt()
+    }catch (e: Exception){
+        println("输入的不是数字吧哈哈")
+    }
 }
 
 /**

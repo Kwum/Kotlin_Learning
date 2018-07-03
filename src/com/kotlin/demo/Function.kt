@@ -24,6 +24,9 @@ fun main(args: Array<String>) {
     //另一种函数写法，函数式表达式
     var addB:(Int, Int)->Int = {x, y -> x+y}
     println(addB(3, 8))
+
+    var dog = SonDog()
+    dog.bowWow()
 }
 
 /**
