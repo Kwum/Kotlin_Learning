@@ -11,6 +11,6 @@ class SonDog : DaddyDog(){//此处将class改写成object则表示单例模式
      * 重写（同理实现抽象方法是也是override关键字）
      */
     override fun bowWow(){
-        println("BowWow BowWow meow")
+        println("BowWow BowWow meow masterBranch")
     }
 }
